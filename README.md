@@ -4,7 +4,7 @@
 Welcome to my personal portfolio! This project showcases my skills, projects, and experience as a **frontend developer**, with a focus on **HTML, CSS, and JavaScript**.  
 
 ## 🔗 Live Demo  
-Check out my portfolio here: [Portfolio Live Link](#)   
+Check out my portfolio here: [https://portfoliospk.netlify.app/](#)   
 
 ---
 
